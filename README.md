@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-This is a TEST personal page for Sardar*PI
+This is a TEST personal page for **sardar\*π**
 
 🏛 Currently studying for a Bachelor of Science (BSc) in Computer Science at the University of London.
+
 <!--
 **clericusvagans/clericusvagans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
