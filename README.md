@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-🏛 I’m currently enrolled in a Bachelor of Science in Computer Science with the University of London.
+This is a TEST personal page for Sardar*PI
+
+🏛 Currently studying for a Bachelor of Science (BSc) in Computer Science at the University of London.
 <!--
 **clericusvagans/clericusvagans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
