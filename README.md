@@ -24,3 +24,5 @@ Here are some ideas to get you started:
 
 
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
+
+[![github](https://raw.githubusercontent.com/saedyousef/StandWithPalestine/main/badges/flat/StandWithPalestine.svg)](https://github.com/saedyousef/StandWithPalestine)
