@@ -24,5 +24,7 @@ Here are some ideas to get you started:
 
 
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
+
 [![github](https://raw.githubusercontent.com/saedyousef/StandWithPalestine/main/badges/flat/StandWithPalestine.svg)](https://github.com/saedyousef/StandWithPalestine)
+
 <img src="https://www.economist.com/cdn-cgi/image/width=960,quality=80,format=auto/content-assets/images/20231209_LDD002.jpg" alt="image: Owen Gent / The Economist, Dec 2023" width="150"/>
